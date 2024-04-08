@@ -1,0 +1,17 @@
+2024-04-07 15:30:36:3036 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-04-07 15:30:36:3036 - [31merror[39m: [31mErro: MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2024-04-07 17:10:53:1053 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999a" (type string) at path "_id" for model "Movie" [39m
+2024-04-07 17:13:13:1313 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999a" (type string) at path "_id" for model "Movie" [39m
+2024-04-07 17:13:36:1336 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999a" (type string) at path "_id" for model "Movie" [39m
+2024-04-07 17:14:23:1423 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999a" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 17:17:33:1733 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999ac1" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 17:17:52:1752 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612fbe5b7cc0cf7c3c999ac1" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 17:21:17:2117 - [31merror[39m: [31mErro no sistema: input must be a 24 character hex string, 12 byte Uint8Array, or an integer[39m
+2024-04-07 22:46:15:4615 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'params')[39m
+2024-04-07 22:47:46:4746 - [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2024-04-07 22:47:57:4757 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6612f889b3037066997613942" (type string) at path "_id" for model "Movie"[39m
+2024-04-07 22:48:02:482 - [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2024-04-07 22:51:05:515 - [31merror[39m: [31mErro no sistema: movie.remove is not a function[39m
+2024-04-07 22:53:27:5327 - [31merror[39m: [31mErro no sistema: movie.remove is not a function[39m
+2024-04-07 23:09:43:943 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2024-04-07 23:11:59:1159 - [31merror[39m: [31mErro no sistema: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'[39m
