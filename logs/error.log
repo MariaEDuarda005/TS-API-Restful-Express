@@ -15,3 +15,23 @@
 2024-04-07 22:53:27:5327 - [31merror[39m: [31mErro no sistema: movie.remove is not a function[39m
 2024-04-07 23:09:43:943 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
 2024-04-07 23:11:59:1159 - [31merror[39m: [31mErro no sistema: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2024-05-19 17:46:14:4614 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 17:50:09:509 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 17:59:56:5956 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:04:27:427 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:05:54:554 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:09:53:953 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:01:101 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:11:1011 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:18:1018 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:28:1028 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:42:1042 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:12:1112 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:20:1120 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:25:1125 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:12:08:128 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:15:32:1532 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:16:03:163 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:21:25:2125 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:22:02:222 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:31:13:3113 - [31merror[39m: [31mNão foi possivel conectar![39m

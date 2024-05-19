@@ -819,3 +819,37 @@
 [35m[39m
 2024-04-07 23:20:34:2034 - [35mhttp[39m: [35mPATCH /api/movie/6612f6656b6dbe8b03a94809 422 153 - 1.049 ms[39m
 [35m[39m
+2024-05-19 17:46:14:4614 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 17:50:09:509 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 17:59:56:5956 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:04:27:427 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:05:54:554 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:09:53:953 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:01:101 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:11:1011 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:18:1018 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:28:1028 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:10:42:1042 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:12:1112 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:20:1120 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:11:25:1125 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:12:08:128 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:15:32:1532 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:16:03:163 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:21:25:2125 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:22:02:222 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:25:23:2523 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-05-19 18:25:23:2523 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-05-19 18:31:13:3113 - [31merror[39m: [31mNão foi possivel conectar![39m
+2024-05-19 18:31:54:3154 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-05-19 18:31:54:3154 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-05-19 18:45:27:4527 - [35mhttp[39m: [35mGET /api/test 200 12 - 2.003 ms[39m
+[35m[39m
+2024-05-19 18:46:07:467 - [35mhttp[39m: [35mGET /api/movie 200 2 - 171.044 ms[39m
+[35m[39m
+2024-05-19 18:46:13:4613 - [35mhttp[39m: [35mGET /api/test 200 12 - 0.570 ms[39m
+[35m[39m
+2024-05-19 18:50:59:5059 - [35mhttp[39m: [35mPOST /api/movie 422 199 - 5.525 ms[39m
+[35m[39m
+2024-05-19 18:54:02:542 - [35mhttp[39m: [35mPOST /api/movie 201 321 - 128.798 ms[39m
+[35m[39m
